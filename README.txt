@@ -1,5 +1,8 @@
 Car_Black_Box_Project
 
+First Step to upload the .hex file in the MPLAB.IDE
+
+STEP BY STPE PROCEDURE WHEN THE PROJECT IS RUNNING:
 Login_Password : 1111
 
 1. Dashboard screen
